@@ -72,7 +72,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,laravel,react,redux,tailwind,mongodb,mysql,codeigniter,PHP,ubuntu,debian,nextjs,nodejs,postman,py,ts,vscode,aws,css,discord,express,figma,firebase,github,html,java,js,linux,md,materialui,nginx,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,laravel,react,redux,tailwind,mongodb,mysql,vue,ubuntu,debian,nextjs,nodejs,postman,py,ts,vscode,aws,css,discord,express,figma,firebase,github,html,java,js,linux,md,materialui,nginx,kubernetes&perline=14" />
   </a>
 </p>
 
